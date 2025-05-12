@@ -1,2 +1,3 @@
-# Portfolio
-An overview of yours truly
+# Image Compressor
+An assignment 
+A fully fuunctional image compressor
