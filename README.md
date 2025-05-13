@@ -1,3 +1,3 @@
 # Image Compressor
 An assignment 
-A fully fuunctional image compressor
+A fully functional image compressor
